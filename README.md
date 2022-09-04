@@ -1,6 +1,9 @@
-## Hangman Game
+# Hangman Game
 
 Select a letter to figure out a hidden word in a set amount of chances
+
+## Live Demo
+[Hangman game](https://hangman-flame.vercel.app/) - game
 
 ## Project Specifications
 
